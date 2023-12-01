@@ -1,34 +1,104 @@
-body {font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif;
+/* base styles */
 
-}
+body {
 
-.logo{
-
-color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 21px;
-    /* 116.667% */
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
 
 
 }
 
-.logo-span {
+/* Reset styles */
 
 
-color: var(--NAVY-BLUE, #2E2F42);
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 21px;
-    /* 116.667% */
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
 
-}
+
+/* Common styles */
+
+
+
+/* header section */
+
+.header {}
+
+.header-nav {}
+
+.header-logo {}
+
+.header-logo-accent {}
+
+.header-list {}
+
+.header-item {}
+
+.header-link {}
+
+.address {}
+
+.address-list {}
+
+.address-item {}
+
+.address-link {}
+
+/* main section */
+/* title section */
+
+.main {}
+
+.main-title {}
+
+.button {}
+
+/* section2 */
+.benefits {}
+
+.benefits-title {}
+
+.benefits-list {}
+
+.benefits-item {}
+
+.benefits-caption {}
+
+.benefits-text {}
+
+/* section3 */
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-picture {}
+
+.team-caption {}
+
+.text {}
+
+/* section4 */
+
+.portfolio {}
+
+.portfolio-title {}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+.portfolio-picture {}
+
+.portfolio-caption {}
+
+.portfolio-text {}
+
+/* footer */
+
+.footer {}
+
+.footer-logo {}
+
+.footer-logo-accent {}
+
+.footer-text {}
