@@ -124,6 +124,8 @@ ul {
 }
 
 .button {
+
+ font-family: 'Raleway';
   color: var(--WHITE, #fff);
   background: var(--IRIS, #4d5ae5);
   
@@ -136,15 +138,12 @@ ul {
   cursor: pointer;
 }
 
-.button:hover {
+.button:hover,button:focus {
   color: var(--WHITE, #fff);
   background: var(--OCEAN, #404bbf);
 
 }
 
-.button:focus {
-    var(--OCEAN, #404bbf)
-}
 
 /* section2 */
 .benefits .benefits-title {
@@ -267,6 +266,7 @@ ul {
 }
 
 .footer-logo {
+    font-family: 'Raleway';
   color: var(--IRIS, #4d5ae5);
   font-size: 18px;
   font-weight: 700;
