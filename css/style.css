@@ -35,12 +35,12 @@ ul {
 /* header section */
 
 .header {
+    font-family: 'Ralevay';
   background: var(--WHITE, #fff);
 }
 
 .header-logo {
   color: var(--IRIS, #4d5ae5);
-  font-family: 'Ralevay';
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
@@ -125,7 +125,6 @@ ul {
 
 .button {
   color: var(--WHITE, #fff);
-  border-radius: 4px;
   background: var(--IRIS, #4d5ae5);
   
 
@@ -139,7 +138,6 @@ ul {
 
 .button:hover {
   color: var(--WHITE, #fff);
-  border-radius: 4px;
   background: var(--OCEAN, #404bbf);
 
 }
@@ -236,12 +234,10 @@ ul {
 }
 
 .portfolio-item {
-  border: 1px solid var(--CORNFLOWER, #e7e9fc);
   background: var(--WHITE, #fff);
 }
 
 .portfolio-picture {
-  border: 1px solid var(--CORNFLOWER, #e7e9fc);
   background: var(--WHITE, #fff);
 }
 
@@ -266,12 +262,12 @@ ul {
 /* footer */
 
 .footer {
+    font-family: 'Raleway';
   background: var(--NAVY-BLUE, #2e2f42);
 }
 
 .footer-logo {
   color: var(--IRIS, #4d5ae5);
-  font-family: 'Raleway';
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
