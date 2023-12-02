@@ -3,7 +3,7 @@
 body {
   font-family: 'Roboto', sans-serif;
 
-  color:  #434455;
+  color: #434455;
   background-color: #fff;
 
   /*    font-family: Roboto;
@@ -35,7 +35,7 @@ ul {
 /* header section */
 
 .header {
-    font-family: 'Ralevay';
+  font-family: 'Ralevay';
   background: var(--WHITE, #fff);
 }
 
@@ -83,8 +83,7 @@ ul {
 }
 
 .address {
-
-    font-style: normal
+  font-style: normal;
 }
 
 .address-list {
@@ -124,11 +123,9 @@ ul {
 }
 
 .button {
-
- font-family: 'Raleway';
+  font-family: 'Raleway';
   color: var(--WHITE, #fff);
   background: var(--IRIS, #4d5ae5);
-  
 
   /* Button Text */
   font-size: 16px;
@@ -138,12 +135,11 @@ ul {
   cursor: pointer;
 }
 
-.button:hover,button:focus {
+.button:hover,
+button:focus {
   color: var(--WHITE, #fff);
   background: var(--OCEAN, #404bbf);
-
 }
-
 
 /* section2 */
 .benefits .benefits-title {
@@ -194,12 +190,10 @@ ul {
 
 .team-item {
   background: var(--WHITE, #fff);
- 
 }
 
 .team-picture {
   background: var(--WHITE, #fff);
- 
 }
 
 .team-caption {
@@ -261,12 +255,12 @@ ul {
 /* footer */
 
 .footer {
-    font-family: 'Raleway';
+  font-family: 'Raleway';
   background: var(--NAVY-BLUE, #2e2f42);
 }
 
 .footer-logo {
-    font-family: 'Raleway';
+  font-family: 'Raleway';
   color: var(--IRIS, #4d5ae5);
   font-size: 18px;
   font-weight: 700;
