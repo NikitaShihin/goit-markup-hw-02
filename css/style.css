@@ -1,104 +1,203 @@
 /* base styles */
 
 body {
+  font-family: 'Roboto', sans-serif;
+  color: #2e2f42;
+  background-color: #fff;
 
+  /*    font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;   */
+}
+
+ul {list-style: none;}
+
+/* Reset styles */
+
+/* Common styles */
+
+/* header section */
+
+.header {
+    
+background: var(--WHITE, #FFF);
+}
+
+.header-nav {
+
+    #2E2F42
+}
+
+.header-logo {
+
+    color: var(--IRIS, #4D5AE5);
+font-family: Ralevay;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17; /* 116.667% */
+letter-spacing: 0.03em;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.header-logo-accent {
+
+
+    color: var(--NAVY-BLUE, #2E2F42);
+letter-spacing: 0.54px;
+}
+
+.header-list {
+    #2E2F42
+}
+
+.header-item {
+
+
+    
+}
+
+.header-link, .header-link-speshial {
+
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-weight: 500;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02em;
+    text-decoration: none;
+
+}
+
+.header-link,.header-link-speshial:hover{},
+.header-link,.header-link-speshial:focus {
+    color: var(--OCEAN, #404BBF);
+
+}
+
+.header-link-speshial:active {
+
+    color: var(--OCEAN, #404BBF);
+    text-decoration:underline
 
 
 }
 
-/* Reset styles */
+.address {
+
+
+}
 
 
 
+.address-list {
+}
 
-/* Common styles */
+.address-item {
+}
 
+.address-link {
+    color: var(--SLATE, #434455);
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02;
 
+}
 
-/* header section */
+.address-link:hover,:focus{
 
-.header {}
+    color: var(--OCEAN, #404BBF);
 
-.header-nav {}
-
-.header-logo {}
-
-.header-logo-accent {}
-
-.header-list {}
-
-.header-item {}
-
-.header-link {}
-
-.address {}
-
-.address-list {}
-
-.address-item {}
-
-.address-link {}
+}
 
 /* main section */
 /* title section */
 
-.main {}
+.main {
+    background: var(--NAVY-BLUE, #2E2F42);
+}
 
-.main-title {}
+.main-title {
 
-.button {}
+    
+}
+
+.button {
+}
 
 /* section2 */
-.benefits {}
+.benefits {
+}
 
-.benefits-title {}
+.benefits-title {
+}
 
-.benefits-list {}
+.benefits-list {
+}
 
-.benefits-item {}
+.benefits-item {
+}
 
-.benefits-caption {}
+.benefits-caption {
+}
 
-.benefits-text {}
+.benefits-text {
+}
 
 /* section3 */
 
-.team {}
+.team {
+}
 
-.team-title {}
+.team-title {
+}
 
-.team-list {}
+.team-list {
+}
 
-.team-item {}
+.team-item {
+}
 
-.team-picture {}
+.team-picture {
+}
 
-.team-caption {}
+.team-caption {
+}
 
-.text {}
+.text {
+}
 
 /* section4 */
 
-.portfolio {}
+.portfolio {
+}
 
-.portfolio-title {}
+.portfolio-title {
+}
 
-.portfolio-list {}
+.portfolio-list {
+}
 
-.portfolio-item {}
+.portfolio-item {
+}
 
-.portfolio-picture {}
+.portfolio-picture {
+}
 
-.portfolio-caption {}
+.portfolio-caption {
+}
 
-.portfolio-text {}
+.portfolio-text {
+}
 
 /* footer */
 
-.footer {}
+.footer {
+}
 
-.footer-logo {}
+.footer-logo {
+}
 
-.footer-logo-accent {}
+.footer-logo-accent {
+}
 
-.footer-text {}
+.footer-text {
+}
