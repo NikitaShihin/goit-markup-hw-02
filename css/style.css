@@ -2,13 +2,8 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Thin', sans-serif;
-  font-family: 'Roboto Light', sans-serif;
-  font-family: 'Roboto Medium', sans-serif;
-  font-family: 'Roboto Black', sans-serif;
 
-  color: #2e2f42;
+  color:  #434455;
   background-color: #fff;
 
   /*    font-family: Roboto;
@@ -88,6 +83,8 @@ ul {
 }
 
 .address {
+
+    font-style: normal
 }
 
 .address-list {
@@ -97,7 +94,6 @@ ul {
 }
 
 .address-link {
-  font-style: normal;
   color: var(--SLATE, #434455);
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
@@ -278,7 +274,7 @@ ul {
   font-family: 'Raleway';
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
